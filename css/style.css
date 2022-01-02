@@ -1,0 +1,22 @@
+header {
+    background-color: #272727;
+}
+
+a {
+    color: #FFF;
+    font-size: 20px;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+    font-weight: 300px;
+    margin-right: 8px;
+    text-decoration: none;
+}
+
+#button {
+    display: inline-block;
+    background-color: #FE7003;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 0px black;
+}
